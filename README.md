@@ -14,6 +14,7 @@
 <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Jeff-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Jeff-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/845342029525680158/930607032443216002/1619235336027.jpg?width=388&height=460">
+<img align="right" src="https://cdn.discordapp.com/attachments/845342029525680158/930639324112912484/7011d6ea4eb738ac971880d6d29adc62_w200.gif"/>
 </div>
   
   ##

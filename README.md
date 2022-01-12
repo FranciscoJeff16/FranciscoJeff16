@@ -1,4 +1,5 @@
 ### E ai meu povo! Meu nome é Jefferson, sou graduando em engenharia de computação na Universidade Federal do Ceará. Por aqui coloco alguns dos meus códigos.
+<img align="center" src="https://cdn.discordapp.com/attachments/845342029525680158/930636548486094868/01c46cae-b993-41a6-b090-f1340ee523c2.gif"/>
 <div align="center">
   <a href="https://github.com/FranciscoJeff16">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FranciscoJeff16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
